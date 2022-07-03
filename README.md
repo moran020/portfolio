@@ -10,9 +10,9 @@
 ![](https://github.com/moran020/TOS_Parkoviy/blob/main/demo/presentation/Slide_3.png) 
 ![](https://github.com/moran020/TOS_Parkoviy/blob/main/demo/presentation/Slide_4.png) 
 
-**Repository: [https://github.com/moran020/TOS_Parkoviy](https://github.com/moran020/TOS_Parkoviy)**
+**Репозиторий: [https://github.com/moran020/TOS_Parkoviy](https://github.com/moran020/TOS_Parkoviy)**
 
-**Demo:**
+**Демо:**
 
 ![](https://github.com/moran020/TOS_Parkoviy/blob/main/demo/demo.gif) 
 
