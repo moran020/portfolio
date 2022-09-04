@@ -1,6 +1,6 @@
 # Портфолио
 
-### Проекты
+### Проекты:
 
 - ТОС «Парковый»
 - Freebie
@@ -17,6 +17,7 @@
 ![](https://github.com/moran020/portfolio/blob/main/TOS_Parkoviy/demo.gif) 
 
 ## Репозиторий 
+
 **<https://github.com/moran020/TOS_Parkoviy>**
 
 ***
@@ -25,9 +26,10 @@
 
 ## Demo
 
-![](https://github.com/moran020/portfolio/blob/main/freebie/demo.gif) 
+![](https://github.com/moran020/portfolio/blob/main/freebie/demo480.gif) 
 
 ## Репозиторий 
+
 **<https://github.com/moran020/freebie>**
 
 ***
@@ -37,9 +39,10 @@
 
 ## Demo
 
-![](https://github.com/moran020/portfolio/blob/main/rent_my_boat/demo.gif) 
+![](https://github.com/moran020/portfolio/blob/main/rent_my_boat/demo480.gif) 
 
 ## Репозиторий 
+
 **<https://github.com/moran020/rent_my_boat>**
 
 ***
